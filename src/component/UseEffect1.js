@@ -184,15 +184,3 @@
 // };
 
 // export default Top;
-
-import React, { useEffect } from "react";
-
-const Top = () => {
-  useEffect(() => {
-    console.log("hi");
-  });
-
-  return <div>outsider</div>;
-};
-
-export default Top;
