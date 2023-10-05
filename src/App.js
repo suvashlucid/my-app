@@ -1,4 +1,3 @@
-
 // // import Hooks from './component/Hooks.js'
 
 // // function App() {
@@ -22,16 +21,15 @@
 // }
 
 // export default App;
-import React from 'react'
-import Checking from './component/Checking'
+// import React from "react";
+// import DoEffect from "./Component/DoEffect";
 
-const App = () => {
-  return (
-    <div>
-      <Checking/>
-    </div>
-  )
-}
+// const App = () => {
+//   return (
+//     <div>
+//       <DoEffect />?
+//     </div>
+//   );
+// };
 
-export default App
-
+// export default App;

@@ -30,7 +30,7 @@ const Checking = () => {
           keey:{index} number: {curElm.number} & age: {curElm.age}
         </h1>
       ))}
-      <button className="btn" onClick={clearMembers}>Click to Clear</button>
+      <button className="btn" onDoubleClick={clearMembers}>Click to Clear</button>
     </>
   );
 };
