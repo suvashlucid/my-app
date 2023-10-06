@@ -8,7 +8,7 @@
 // //   );
 // // }
 
-// // export default App;
+// // // export default App;
 // import React from 'react';
 // import UseHooks2 from './component/UseHooks2'; // Updated import statement
 
@@ -21,15 +21,15 @@
 // }
 
 // export default App;
-// import React from "react";
-// import DoEffect from "./Component/DoEffect";
+import React from "react";
+import DoEffect from "./Component/DoEffect";
 
-// const App = () => {
-//   return (
-//     <div>
-//       <DoEffect />?
-//     </div>
-//   );
-// };
+const App = () => {
+  return (
+    <div>
+      <DoEffect />
+    </div>
+  );
+};
 
-// export default App;
+export default App;
